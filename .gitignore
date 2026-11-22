@@ -1,0 +1,56 @@
+# Prerequisites & Dependency files
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker & Debugger files
+*.ilk
+*.pdb
+*.dwo
+*.dSYM/
+
+# Compiled Dynamic & Static libraries
+*.so
+*.so.*
+*.dylib
+*.dll
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories & CMake outputs
+build/
+[Bb]uild/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# Package managers & Caches
+vcpkg_installed/
+Testing/
+.cache/
+
+# Temporary & Log files
+*.tmp
+*.log
+*.bak
+*.swp
+
